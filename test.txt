@@ -1,3 +1,4 @@
 Hello World
 22 Jan 2022
 Test 2 - I just added some text
+Test 3 - I just added some more text to add test caching of PAT token via the CLI so as not be copying and pasting the PAT into password area everytime I do a push to my repo
