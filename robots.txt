@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: https://www.thefanoreschoolcase.ie/fc.html
+
+Sitemap: https://www.thefanoreschoolcase.ie/sitemap.xml
